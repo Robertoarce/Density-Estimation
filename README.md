@@ -10,13 +10,13 @@ The repository allows you to play and combine 2 different distributions and see 
 The repository also shows how 3 different distributions would look after being combined
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="./images/initial_distributions.png" alt="Density Estimation" style="flex: 33%; padding: 5px; width: 200px;">
-  <img src="./images/actual_distribution.png" alt="Density Estimation" style="flex: 33%; padding: 5px; width: 200px;">
+  <img src="./images/initial_distributions.png" alt="Density Estimation" style="flex: 33%; padding: 5px; width: 500px; height: 300px">
+  <img src="./images/actual_distribution.png" alt="Density Estimation" style="flex: 33%; padding: 5px; width: 500px; height: 300px">
 </div>
  to finally be estimated by several techniques demonstrated.
 <div style="display: flex; flex-wrap: wrap; margin: 50px;  ">
-  <img src="./images/KernelDensity.png" alt="Density Estimation" style="flex: 50%; padding: 5px; width: 300px;">
-  <img src="./images/gmm.png" alt="Density Estimation" style="flex: 50%; padding: 5px; width: 300px;">
+  <img src="./images/KernelDensity.png" alt="Density Estimation" style="flex: 50%; padding: 5px; width: 500px; height: 300px">
+  <img src="./images/gmm.png" alt="Density Estimation" style="flex: 50%; padding: 5px; width: 500px;height: 300px">
 </div>
 
 ## Agenda
